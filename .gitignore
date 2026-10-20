@@ -1,0 +1,13 @@
+# CMake build output
+/build/
+/out/
+/cmake-build-*/
+
+# Compiled binaries and debug files
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Locally unpacked SFML SDK (CMake fetches the required version)
+/SFML-*/
